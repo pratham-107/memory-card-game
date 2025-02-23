@@ -3,10 +3,10 @@ const shuffleBtn = document.getElementById('shuffleBtn');
 
 // Array representing the card faces with images
 const cardFaces = [
-  'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcnTqjOa91begQRCNmSu_z2E22s0x5YVZMXA&s)',
-  'url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/51_Q_di_picche.jpg/145px-51_Q_di_picche.jpg)',
-  'url(https://upload.wikimedia.org/wikipedia/commons/4/46/50_J_di_picche.jpg)',
-  'url(https://i.etsystatic.com/27183291/r/il/a16f77/2927510475/il_1080xN.2927510475_asy7.jpg)'
+  'url(https://png.pngtree.com/png-clipart/20230812/original/pngtree-comic-speech-bubbles-with-text-you-win-picture-image_7880780.png)',
+  'url(https://png.pngtree.com/png-clipart/20230812/original/pngtree-comic-speech-bubbles-with-text-you-win-picture-image_7880780.png)',
+  'url(https://png.pngtree.com/png-clipart/20230812/original/pngtree-comic-speech-bubbles-with-text-you-win-picture-image_7880780.png)',
+  'url(https://m.media-amazon.com/images/I/31mQ+Rx8nrL._UXNaN_FMjpg_QL85_.jpg)'
 ];
 
 // Function to shuffle the cards
